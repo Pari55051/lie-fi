@@ -1198,5 +1198,539 @@
     "excuse": "The static in my headphones told me a secret I needed time to digest.",
     "wackometer": 8,
     "believability": 40
+  },
+  {
+    "id": 201,
+    "excuse": "The static in my headphones told me a secret I needed time to digest.",
+    "wackometer": 1,
+    "believability": 95
+  },
+  {
+    "id": 201,
+    "excuse": "My toddler hid my car keys.",
+    "wackometer": 1,
+    "believability": 89
+  },
+  {
+    "id": 202,
+    "excuse": "My internet was out because of construction nearby.",
+    "wackometer": 2,
+    "believability": 81
+  },
+  {
+    "id": 203,
+    "excuse": "I missed the meeting because my alarm didn\u2019t go off.",
+    "wackometer": 3,
+    "believability": 70
+  },
+  {
+    "id": 204,
+    "excuse": "The weather app lied to me, and I wasn't prepared.",
+    "wackometer": 3,
+    "believability": 92
+  },
+  {
+    "id": 205,
+    "excuse": "I had to take my grandma to her knitting tournament.",
+    "wackometer": 6,
+    "believability": 71
+  },
+  {
+    "id": 206,
+    "excuse": "I was stuck in traffic behind a funeral procession for a goldfish.",
+    "wackometer": 5,
+    "believability": 93
+  },
+  {
+    "id": 207,
+    "excuse": "My phone died and I didn\u2019t have a charger.",
+    "wackometer": 1,
+    "believability": 87
+  },
+  {
+    "id": 208,
+    "excuse": "I missed the meeting because my alarm didn\u2019t go off.",
+    "wackometer": 2,
+    "believability": 80
+  },
+  {
+    "id": 209,
+    "excuse": "I thought today was a holiday.",
+    "wackometer": 2,
+    "believability": 72
+  },
+  {
+    "id": 210,
+    "excuse": "I left my laptop at home.",
+    "wackometer": 3,
+    "believability": 78
+  },
+  {
+    "id": 211,
+    "excuse": "I locked myself out of the house.",
+    "wackometer": 2,
+    "believability": 97
+  },
+  {
+    "id": 212,
+    "excuse": "The weather app lied to me, and I wasn't prepared.",
+    "wackometer": 3,
+    "believability": 89
+  },
+  {
+    "id": 213,
+    "excuse": "A goat stole my car keys at the petting zoo.",
+    "wackometer": 4,
+    "believability": 58
+  },
+  {
+    "id": 213,
+    "excuse": "I was in a heated online chess match with a grandmaster.",
+    "wackometer": 6,
+    "believability": 63
+  },
+  {
+    "id": 214,
+    "excuse": "The birds outside were reenacting Hitchcock\u2019s movie.",
+    "wackometer": 8,
+    "believability": 32
+  },
+  {
+    "id": 215,
+    "excuse": "I was being followed by a suspicious-looking squirrel.",
+    "wackometer": 4,
+    "believability": 38
+  },
+  {
+    "id": 216,
+    "excuse": "The raccoons formed a union and blocked my garage.",
+    "wackometer": 3,
+    "believability": 36
+  },
+  {
+    "id": 217,
+    "excuse": "My dog had an identity crisis and needed therapy.",
+    "wackometer": 5,
+    "believability": 64
+  },
+  {
+    "id": 218,
+    "excuse": "My plants needed emotional support after the thunderstorm.",
+    "wackometer": 4,
+    "believability": 57
+  },
+  {
+    "id": 220,
+    "excuse": "I got stuck in my VR headset and couldn't log out.",
+    "wackometer": 2,
+    "believability": 51
+  },
+  {
+    "id": 221,
+    "excuse": "I had to mediate an argument between my cats.",
+    "wackometer": 2,
+    "believability": 63
+  },
+  {
+    "id": 222,
+    "excuse": "Aliens hovered above my house and jammed the Wi-Fi.",
+    "wackometer": 8,
+    "believability": 57
+  },
+  {
+    "id": 223,
+    "excuse": "Time travelers visited and insisted on tea.",
+    "wackometer": 6,
+    "believability": 8
+  },
+  {
+    "id": 224,
+    "excuse": "My ceiling fan started chanting Latin at 3am.",
+    "wackometer": 10,
+    "believability": 4
+  },
+  {
+    "id": 225,
+    "excuse": "My toaster tried to take over the house.",
+    "wackometer": 10,
+    "believability": 10
+  },
+  {
+    "id": 226,
+    "excuse": "My clone replaced me but forgot the password.",
+    "wackometer": 9,
+    "believability": 40
+  },
+  {
+    "id": 227,
+    "excuse": "Quantum ghosts hacked my microwave again.",
+    "wackometer": 10,
+    "believability": 33
+  },
+  {
+    "id": 228,
+    "excuse": "A wormhole opened in my closet and swallowed my outfit.",
+    "wackometer": 10,
+    "believability": 10
+  },
+  {
+    "id": 229,
+    "excuse": "A wizard turned my alarm clock into a frog.",
+    "wackometer": 6,
+    "believability": 14
+  },
+  {
+    "id": 230,
+    "excuse": "I got stuck in a group chat argument about cereal being soup.",
+    "wackometer": 4,
+    "believability": 60
+  },
+  {
+    "id": 231,
+    "excuse": "Aliens borrowed my WiFi and overloaded the router.",
+    "wackometer": 9,
+    "believability": 20
+  },
+  {
+    "id": 232,
+    "excuse": "I couldn't find my laptop because I was using it as a tray.",
+    "wackometer": 4,
+    "believability": 75
+  },
+  {
+    "id": 233,
+    "excuse": "The neighbor's llama got into my kitchen again.",
+    "wackometer": 3,
+    "believability": 30
+  },
+  {
+    "id": 234,
+    "excuse": "My Zoom background was too realistic and I lost myself.",
+    "wackometer": 5,
+    "believability": 45
+  },
+  {
+    "id": 235,
+    "excuse": "My plants scheduled an intervention and I couldn't leave.",
+    "wackometer": 6,
+    "believability": 40
+  },
+  {
+    "id": 236,
+    "excuse": "I spilled coffee on my calendar and lost all sense of time.",
+    "wackometer": 3,
+    "believability": 70
+  },
+  {
+    "id": 234,
+    "excuse": "My toaster tried to unionize and I had to negotiate.",
+    "wackometer": 5,
+    "believability": 25
+  },
+  {
+    "id": 235,
+    "excuse": "I followed a butterfly into the woods and lost track of the day.",
+    "wackometer": 4,
+    "believability": 50
+  },
+  {
+    "id": 236,
+    "excuse": "The moon looked suspicious so I stayed up to watch it.",
+    "wackometer": 2,
+    "believability": 45
+  },
+  {
+    "id": 237,
+    "excuse": "My laundry staged a revolt and blocked the door.",
+    "wackometer": 5,
+    "believability": 35
+  },
+  {
+    "id": 238,
+    "excuse": "I tried to meditate and accidentally astral projected.",
+    "wackometer": 9,
+    "believability": 30
+  },
+  {
+    "id": 239,
+    "excuse": "A squirrel stole my car keys.",
+    "wackometer": 2,
+    "believability": 65
+  },
+  {
+    "id": 240,
+    "excuse": "I was baking bread and entered a flour vortex.",
+    "wackometer": 6,
+    "believability": 40
+  },
+  {
+    "id": 241,
+    "excuse": "My dog signed me up for a marathon. I had to run it.",
+    "wackometer": 5,
+    "believability": 55
+  },
+  {
+    "id": 242,
+    "excuse": "I was translating whale songs and lost track of time.",
+    "wackometer": 3,
+    "believability": 25
+  },
+  {
+    "id": 243,
+    "excuse": "The internet went down because the cat sat on the router.",
+    "wackometer": 1,
+    "believability": 85
+  },
+  {
+    "id": 244,
+    "excuse": "I got stuck in an existential crisis with my coffee mug.",
+    "wackometer": 2,
+    "believability": 50
+  },
+  {
+    "id": 245,
+    "excuse": "I time-traveled by mistake and returned late.",
+    "wackometer": 10,
+    "believability": 10
+  },
+  {
+    "id": 246,
+    "excuse": "My smart fridge locked me out for eating after midnight.",
+    "wackometer": 6,
+    "believability": 60
+  },
+  {
+    "id": 247,
+    "excuse": "My goldfish had a birthday party and I couldn't miss it.",
+    "wackometer": 2,
+    "believability": 45
+  },
+  {
+    "id": 248,
+    "excuse": "A goose challenged me to a staring contest. I lost track of time.",
+    "wackometer": 4,
+    "believability": 35
+  },
+  {
+    "id": 249,
+    "excuse": "I thought it was Saturday. All day.",
+    "wackometer": 3,
+    "believability": 90
+  },
+  {
+    "id": 250,
+    "excuse": "The sun was too bright and it fried my motivation.",
+    "wackometer": 5,
+    "believability": 70
+  },
+  {
+    "id": 251,
+    "excuse": "My roommate was testing invisibility spray and I tripped over him.",
+    "wackometer": 9,
+    "believability": 20
+  },
+  {
+    "id": 252,
+    "excuse": "The microwave made a weird noise so I had to interrogate it.",
+    "wackometer": 3,
+    "believability": 50
+  },
+  {
+    "id": 253,
+    "excuse": "My yoga mat and I had a disagreement.",
+    "wackometer": 6,
+    "believability": 60
+  },
+  {
+    "id": 254,
+    "excuse": "A family of ducks blocked my driveway.",
+    "wackometer": 1,
+    "believability": 75
+  },
+  {
+    "id": 255,
+    "excuse": "My digital assistant scheduled a nap instead of a meeting.",
+    "wackometer": 1,
+    "believability": 65
+  },
+  {
+    "id": 256,
+    "excuse": "I lost the remote and the TV held me hostage on the weather channel.",
+    "wackometer": 3,
+    "believability": 40
+  },
+  {
+    "id": 257,
+    "excuse": "I got stuck reading conspiracy theories about left-handed dolphins.",
+    "wackometer": 2,
+    "believability": 25
+  },
+  {
+    "id": 258,
+    "excuse": "I tried organizing my desktop and ended up deep-cleaning the garage.",
+    "wackometer": 2,
+    "believability": 70
+  },
+  {
+    "id": 259,
+    "excuse": "I spilled tea on my calendar and erased Wednesday.",
+    "wackometer": 2,
+    "believability": 55
+  },
+  {
+    "id": 260,
+    "excuse": "My blanket refused to let me go this morning.",
+    "wackometer": 4,
+    "believability": 85
+  },
+  {
+    "id": 261,
+    "excuse": "My cat changed my alarm to PM again.",
+    "wackometer": 1,
+    "believability": 80
+  },
+  {
+    "id": 262,
+    "excuse": "A raccoon stole my notes. I think it was planning something.",
+    "wackometer": 3,
+    "believability": 50
+  },
+  {
+    "id": 263,
+    "excuse": "I got trapped in a loop of cleaning one more thing.",
+    "wackometer": 1,
+    "believability": 70
+  },
+  {
+    "id": 264,
+    "excuse": "I sneezed and scared the power out.",
+    "wackometer": 4,
+    "believability": 40
+  },
+  {
+    "id": 265,
+    "excuse": "My mirror gave me tough love and I needed time to process.",
+    "wackometer": 4,
+    "believability": 45
+  },
+  {
+    "id": 266,
+    "excuse": "The moonlight called me into a spontaneous poetry session.",
+    "wackometer": 4,
+    "believability": 35
+  },
+  {
+    "id": 267,
+    "excuse": "I forgot my coffee and spiraled into mild chaos.",
+    "wackometer": 1,
+    "believability": 85
+  },
+  {
+    "id": 268,
+    "excuse": "I joined a livestream of penguins and couldn't look away.",
+    "wackometer": 3,
+    "believability": 55
+  },
+  {
+    "id": 269,
+    "excuse": "My favorite pen rolled under the couch and it became a rescue mission.",
+    "wackometer": 2,
+    "believability": 75
+  },
+  {
+    "id": 270,
+    "excuse": "The stars weren't aligned, so I waited.",
+    "wackometer": 1,
+    "believability": 40
+  },
+  {
+    "id": 271,
+    "excuse": "I got trapped in a Wikipedia rabbit hole.",
+    "wackometer": 2,
+    "believability": 80
+  },
+  {
+    "id": 272,
+    "excuse": "My houseplants requested a therapy session.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 272,
+    "excuse": "My keyboard wouldn't type the letter 'E'.",
+    "wackometer": 3,
+    "believability": 90
+  },
+  {
+    "id": 273,
+    "excuse": "I was trying to fix a bug and created a whole ecosystem instead.",
+    "wackometer": 8,
+    "believability": 35
+  },
+  {
+    "id": 274,
+    "excuse": "The fridge door beeped at me aggressively and I had to calm it down.",
+    "wackometer": 6,
+    "believability": 60
+  },
+  {
+    "id": 275,
+    "excuse": "I got stuck in traffic.",
+    "wackometer": 1,
+    "believability": 95
+  },
+  {
+    "id": 276,
+    "excuse": "My alarm didn’t go off.",
+    "wackometer": 1,
+    "believability": 93
+  },
+  {
+    "id": 277,
+    "excuse": "I wasn't feeling well this morning.",
+    "wackometer": 1,
+    "believability": 90
+  },
+  {
+    "id": 278,
+    "excuse": "I had a family emergency.",
+    "wackometer": 1,
+    "believability": 92
+  },
+  {
+    "id": 279,
+    "excuse": "My phone died and I didn’t see the time.",
+    "wackometer": 1,
+    "believability": 88
+  },
+  {
+    "id": 280,
+    "excuse": "I had an appointment that ran longer than expected.",
+    "wackometer": 1,
+    "believability": 87
+  },
+  {
+    "id": 281,
+    "excuse": "There was a power outage in my area.",
+    "wackometer": 1,
+    "believability": 85
+  },
+  {
+    "id": 282,
+    "excuse": "My internet went down right before the call.",
+    "wackometer": 1,
+    "believability": 89
+  },
+  {
+    "id": 283,
+    "excuse": "I was helping a neighbor with an emergency.",
+    "wackometer": 1,
+    "believability": 84
+  },
+  {
+    "id": 284,
+    "excuse": "My pet was sick and I had to take care of it.",
+    "wackometer": 1,
+    "believability": 86
   }
 ]
