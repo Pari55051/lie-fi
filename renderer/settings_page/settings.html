@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Lie-Fi™</title>
+    <link rel="stylesheet" href="settings.css">
+
+    <!-- icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.2.0/remixicon.css">
+</head>
+
+<body>
+    <div id="window">
+
+        <!--=============== HEADER ===============-->
+        <header class="header" id="header">
+            <div class="header__container">
+                <a href="../index.html" class="header__logo">
+                    <i class="ri-base-station-fill"></i>
+                    <span>Lie-Fi ™</span>
+                </a>
+
+                <button class="header__toggle" id="header-toggle">
+                    <i class="ri-menu-line"></i>
+                </button>
+            </div>
+        </header>
+
+        <!--=============== SIDEBAR ===============-->
+        <nav class="sidebar" id="sidebar">
+            <div class="sidebar__container">
+                <div class="sidebar__user">
+                    <div class="sidebar__img">
+                        <img src="../assets/user_icon.png" alt="user profile">
+                    </div>
+
+                    <div class="sidebar__info">
+                        <h3>John Doe</h3>
+                        <span>john.doe@email.com</span>
+                    </div>
+                </div>
+
+                <div class="sidebar__content">
+                    <div>
+                        <h3 class="sidebar__title">MANAGE</h3>
+
+                        <div class="sidebar__list">
+                            <a href="../index.html" class="sidebar__link">
+                                <i class="ri-pie-chart-2-fill"></i>
+                                <span>Dashboard</span>
+                            </a>
+
+                            <a href="../saved_page/saved.html" class="sidebar__link">
+                                <i class="ri-bookmark-fill"></i>
+                                <span>Saved</span>
+                            </a>
+
+                            <a href="../collection_page/collection.html" class="sidebar__link">
+                                <i class="ri-archive-fill"></i>
+                                <span>Collections</span>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h3 class="sidebar__title">SETTINGS</h3>
+
+                        <div class="sidebar__list">
+                            <a href="settings.html" class="sidebar__link active_link">
+                                <i class="ri-settings-3-fill"></i>
+                                <span>Settings</span>
+                            </a>
+
+                            <a href="../upgrade_page/upgrade.html" class="sidebar__link sidebar_upgrade_link">
+                                <i class="ri-vip-crown-2-fill"></i>
+                                <span>UPGRADE</span>
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="sidebar__actions">
+
+                    <button class="sidebar__link">
+                        <i class="ri-logout-box-r-fill"></i>
+                        <span>Log Out</span>
+                    </button>
+
+                </div>
+            </div>
+        </nav>
+
+        <!--=============== MAIN ===============-->
+        <main class="main container" id="main">
+            <h1>Settings</h1>
+
+
+            <section class="settings">
+
+                <!-- Profile Settings -->
+                <div class="settings__section">
+                    <h2 class="settings__title">Profile</h2>
+                    <div class="settings__item">
+                        <label>User Email</label>
+                        <input type="email" value="john.doe@email.com" disabled>
+                    </div>
+                    <div class="settings__item">
+                        <label>Display Name</label>
+                        <input type="text" value="John Doe">
+                    </div>
+                    <div class="settings__item">
+                        <label>Display Name Animation Style</label>
+                        <select>
+                            <option>Fade</option>
+                            <option>Explode</option>
+                            <option>Wiggle Dramatically</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Security Settings -->
+                <div class="settings__section">
+                    <h2 class="settings__title">Security</h2>
+                    <div class="settings__item">
+                        <label>Change Password</label>
+                        <button class="fake-btn">Change</button>
+                    </div>
+                    <div class="settings__item checkbox">
+                        <label class="custom-checkbox-wrapper">
+                            <input type="checkbox" class="custom-checkbox">
+                            <span class="checkbox-label">Two-Factor Authentication</span>
+                        </label>
+                    </div>
+                    <div class="settings__item">
+                        <label>Password Strength Flavor</label>
+                        <select>
+                            <option>Mild Salsa</option>
+                            <option>Spicy</option>
+                            <option>Volcanic 🌋</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Excuse Preferences -->
+                <div class="settings__section">
+                    <h2 class="settings__title">Excuse Settings</h2>
+                    <div class="settings__item">
+                        <label>Excuse Categories</label>
+                        <div class="checkbox-group">
+                            <label class="custom-checkbox-wrapper">
+                                <input type="checkbox" class="custom-checkbox">
+                                <span class="checkbox-label">Work</span>
+                            </label>
+                            <label class="custom-checkbox-wrapper">
+                                <input type="checkbox" class="custom-checkbox">
+                                <span class="checkbox-label">Cosmic</span>
+                            </label>
+                            <label class="custom-checkbox-wrapper">
+                                <input type="checkbox" class="custom-checkbox">
+                                <span class="checkbox-label">Pet Drama</span>
+                            </label>
+                        </div>
+                    </div>
+                    <div class="settings__item checkbox">
+                        <label class="custom-checkbox-wrapper">
+                            <input type="checkbox" class="custom-checkbox">
+                            <span class="checkbox-label">Auto-Rotate Excuses</span>
+                        </label>
+                    </div>
+                    <div class="settings__item">
+                        <label>Excuse Delivery Method</label>
+                        <select>
+                            <option>Text</option>
+                            <option>British Voice</option>
+                            <option>Carrier Pigeon 🐦</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Notifications -->
+                <div class="settings__section">
+                    <h2 class="settings__title">Notifications</h2>
+                    <div class="settings__item checkbox">
+                        <label class="custom-checkbox-wrapper">
+                            <input type="checkbox" class="custom-checkbox">
+                            <span class="checkbox-label">Email Notifications</span>
+                        </label>
+                    </div>
+                    <div class="settings__item checkbox">
+                        <label class="custom-checkbox-wrapper">
+                            <input type="checkbox" class="custom-checkbox">
+                            <span class="checkbox-label">Push Notifications</span>
+                        </label>
+                    </div>
+                    <div class="settings__item checkbox">
+                        <label class="custom-checkbox-wrapper">
+                            <input type="checkbox" class="custom-checkbox">
+                            <span class="checkbox-label">Emergency Excuse Alert Mode</span>
+                        </label>
+                    </div>
+                </div>
+
+                <!-- Appearance -->
+                <div class="settings__section">
+                    <h2 class="settings__title">Appearance</h2>
+                    <div class="settings__item">
+                        <label>Theme</label>
+                        <select>
+                            <option>Light</option>
+                            <option>Dark</option>
+                            <option>Chaotic ✨</option>
+                        </select>
+                    </div>
+                    <div class="settings__item">
+                        <label>Accent Color</label>
+                        <input type="color" value="#407BFF">
+                    </div>
+                    <div class="settings__item checkbox">
+                        <label class="custom-checkbox-wrapper">
+                            <input type="checkbox" class="custom-checkbox">
+                            <span class="checkbox-label">Enable Subtle Vibes</span>
+                        </label>
+                    </div>
+                </div>
+
+                <!-- Danger Zone -->
+                <div class="settings__section danger-zone">
+                    <h2 class="settings__title">Account</h2>
+                    <div class="settings__item">
+                        <label>Download Excuse History</label>
+                        <button class="fake-btn">Download</button>
+                    </div>
+                    <div class="settings__item">
+                        <label>Delete Account</label>
+                        <button class="fake-btn danger">Delete</button>
+                        <p class="tiny-text">This action is irreversible. Like forgetting your wedding anniversary.</p>
+                    </div>
+                </div>
+
+            </section>
+
+        </main>
+
+    </div>
+    <script type="module" src="../app.js"></script>
+</body>
+
+</html>

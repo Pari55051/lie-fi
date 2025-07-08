@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "excuse": "My shoelaces got into an existential crisis and refused to tie.",
+    "wackometer": 7,
+    "believability": 35
+  },
+  {
+    "id": 2,
+    "excuse": "I accidentally joined a silent meditation Zoom for three hours.",
+    "wackometer": 5,
+    "believability": 65
+  },
+  {
+    "id": 3,
+    "excuse": "My smart toaster refused to toast until I complimented it.",
+    "wackometer": 8,
+    "believability": 40
+  },
+  {
+    "id": 4,
+    "excuse": "I got trapped in a group chat with my mom’s knitting club.",
+    "wackometer": 4,
+    "believability": 70
+  },
+  {
+    "id": 5,
+    "excuse": "There was a squirrel congress meeting on my balcony.",
+    "wackometer": 6,
+    "believability": 55
+  },
+  {
+    "id": 6,
+    "excuse": "I had to decode an ancient message left on my cereal box.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 7,
+    "excuse": "My dog ate my car keys and insisted on driving himself.",
+    "wackometer": 8,
+    "believability": 30
+  },
+  {
+    "id": 8,
+    "excuse": "I was stuck explaining memes to my grandma.",
+    "wackometer": 3,
+    "believability": 80
+  },
+  {
+    "id": 9,
+    "excuse": "My mirror refused to show my reflection out of protest.",
+    "wackometer": 9,
+    "believability": 25
+  },
+  {
+    "id": 10,
+    "excuse": "I tripped on a Wi-Fi signal and sprained my ego.",
+    "wackometer": 6,
+    "believability": 50
+  },
+  {
+    "id": 11,
+    "excuse": "A duck followed me home and staged a sit-in protest.",
+    "wackometer": 7,
+    "believability": 40
+  },
+  {
+    "id": 12,
+    "excuse": "My fridge locked itself because I violated snack protocol.",
+    "wackometer": 8,
+    "believability": 35
+  },
+  {
+    "id": 13,
+    "excuse": "Aliens paused time but forgot to unpause it for me.",
+    "wackometer": 10,
+    "believability": 15
+  },
+  {
+    "id": 14,
+    "excuse": "My cat declared herself queen and blocked the front door.",
+    "wackometer": 6,
+    "believability": 55
+  },
+  {
+    "id": 15,
+    "excuse": "I was stuck translating my dreams into Morse code.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 16,
+    "excuse": "I got locked in my closet while reenacting a movie scene.",
+    "wackometer": 5,
+    "believability": 60
+  },
+  {
+    "id": 17,
+    "excuse": "My house was haunted and I had to negotiate a truce.",
+    "wackometer": 9,
+    "believability": 30
+  },
+  {
+    "id": 18,
+    "excuse": "The elevator thought it was a time machine again.",
+    "wackometer": 8,
+    "believability": 35
+  },
+  {
+    "id": 19,
+    "excuse": "I spilled glitter and am now under sparkly quarantine.",
+    "wackometer": 6,
+    "believability": 50
+  },
+  {
+    "id": 20,
+    "excuse": "I had to help my goldfish with emotional support.",
+    "wackometer": 5,
+    "believability": 65
+  },
+  {
+    "id": 21,
+    "excuse": "The moon told me to stay in bed.",
+    "wackometer": 9,
+    "believability": 20
+  },
+  {
+    "id": 22,
+    "excuse": "My phone refused to unlock unless I danced.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 23,
+    "excuse": "I got stuck in a TikTok time loop.",
+    "wackometer": 6,
+    "believability": 55
+  },
+  {
+    "id": 24,
+    "excuse": "My AI assistant locked me out for sassiness.",
+    "wackometer": 7,
+    "believability": 50
+  },
+  {
+    "id": 25,
+    "excuse": "I had to referee a staring contest between my plants.",
+    "wackometer": 6,
+    "believability": 45
+  },
+  {
+    "id": 26,
+    "excuse": "I was hexed by a passive-aggressive barista.",
+    "wackometer": 8,
+    "believability": 35
+  },
+  {
+    "id": 27,
+    "excuse": "My socks organized a rebellion.",
+    "wackometer": 7,
+    "believability": 40
+  },
+  {
+    "id": 28,
+    "excuse": "I enrolled in a quantum cooking class and lost track of time.",
+    "wackometer": 9,
+    "believability": 30
+  },
+  {
+    "id": 29,
+    "excuse": "The universe rerouted my morning.",
+    "wackometer": 8,
+    "believability": 35
+  },
+  {
+    "id": 30,
+    "excuse": "My coffee mug was holding my motivation hostage.",
+    "wackometer": 6,
+    "believability": 55
+  },
+  {
+    "id": 31,
+    "excuse": "I sneezed and accidentally summoned fog.",
+    "wackometer": 7,
+    "believability": 40
+  },
+  {
+    "id": 32,
+    "excuse": "My alarm clock was on a silent retreat.",
+    "wackometer": 5,
+    "believability": 60
+  },
+  {
+    "id": 33,
+    "excuse": "I got caught in a vortex of deja vu.",
+    "wackometer": 8,
+    "believability": 40
+  },
+  {
+    "id": 34,
+    "excuse": "My pet rock started vibrating with intent.",
+    "wackometer": 6,
+    "believability": 45
+  },
+  {
+    "id": 35,
+    "excuse": "My horoscope told me not to leave the house.",
+    "wackometer": 5,
+    "believability": 70
+  },
+  {
+    "id": 36,
+    "excuse": "A sentient pothole tried to eat my tire.",
+    "wackometer": 9,
+    "believability": 25
+  },
+  {
+    "id": 37,
+    "excuse": "The clouds were too sarcastic today.",
+    "wackometer": 7,
+    "believability": 35
+  },
+  {
+    "id": 38,
+    "excuse": "I was trapped under a pile of unused planners.",
+    "wackometer": 6,
+    "believability": 50
+  },
+  {
+    "id": 39,
+    "excuse": "My roommate's crystals blocked the doorway.",
+    "wackometer": 5,
+    "believability": 60
+  },
+  {
+    "id": 40,
+    "excuse": "A conspiracy of pigeons stalled my departure.",
+    "wackometer": 7,
+    "believability": 40
+  },
+  {
+    "id": 41,
+    "excuse": "My reflection walked away mid-conversation.",
+    "wackometer": 10,
+    "believability": 20
+  },
+  {
+    "id": 42,
+    "excuse": "I got challenged to a duel by my own shadow.",
+    "wackometer": 9,
+    "believability": 25
+  },
+  {
+    "id": 43,
+    "excuse": "My neighbor's llama blocked my car.",
+    "wackometer": 6,
+    "believability": 50
+  },
+  {
+    "id": 44,
+    "excuse": "I got too emotionally invested in a soap opera cliffhanger.",
+    "wackometer": 5,
+    "believability": 60
+  },
+  {
+    "id": 45,
+    "excuse": "I mistook Monday for a myth.",
+    "wackometer": 4,
+    "believability": 75
+  },
+  {
+    "id": 46,
+    "excuse": "I had to consult an oracle over breakfast.",
+    "wackometer": 6,
+    "believability": 55
+  },
+  {
+    "id": 47,
+    "excuse": "I was caught in a bureaucratic dreamscape.",
+    "wackometer": 8,
+    "believability": 35
+  },
+  {
+    "id": 48,
+    "excuse": "I lost track of time debating with a chatbot.",
+    "wackometer": 4,
+    "believability": 70
+  },
+  {
+    "id": 49,
+    "excuse": "My umbrella union went on strike.",
+    "wackometer": 7,
+    "believability": 40
+  },
+  {
+    "id": 50,
+    "excuse": "I was halfway through a wardrobe to Narnia.",
+    "wackometer": 8,
+    "believability": 30
+  },
+  {
+    "id": 51,
+    "excuse": "My coffee spilled a prophecy and I had to interpret it.",
+    "wackometer": 8,
+    "believability": 35
+  },
+  {
+    "id": 52,
+    "excuse": "A rogue shopping cart chased me across the parking lot.",
+    "wackometer": 6,
+    "believability": 50
+  },
+  {
+    "id": 53,
+    "excuse": "I had to break up a fight between two Roombas.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 54,
+    "excuse": "I got stuck in the YouTube rabbit hole of conspiracy ASMR.",
+    "wackometer": 6,
+    "believability": 55
+  },
+  {
+    "id": 55,
+    "excuse": "My GPS insisted I was in another dimension.",
+    "wackometer": 8,
+    "believability": 30
+  },
+  {
+    "id": 56,
+    "excuse": "I had to charge my emotional battery before socializing.",
+    "wackometer": 5,
+    "believability": 70
+  },
+  {
+    "id": 57,
+    "excuse": "My Bluetooth speaker started screaming in binary.",
+    "wackometer": 7,
+    "believability": 40
+  },
+  {
+    "id": 58,
+    "excuse": "My scarf tried to strangle me for fashion crimes.",
+    "wackometer": 8,
+    "believability": 35
+  },
+  {
+    "id": 59,
+    "excuse": "I got ghosted by my own calendar.",
+    "wackometer": 6,
+    "believability": 50
+  },
+  {
+    "id": 60,
+    "excuse": "A chicken crossed the road and challenged me to follow.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 61,
+    "excuse": "I had to tame a wild group chat.",
+    "wackometer": 5,
+    "believability": 60
+  },
+  {
+    "id": 62,
+    "excuse": "My sleep paralysis demon and I finally had our talk.",
+    "wackometer": 9,
+    "believability": 25
+  },
+  {
+    "id": 63,
+    "excuse": "I was on hold with a cursed help desk.",
+    "wackometer": 8,
+    "believability": 30
+  },
+  {
+    "id": 64,
+    "excuse": "My avatar had a nervous breakdown and I felt it.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 65,
+    "excuse": "The traffic lights were communicating in Morse code.",
+    "wackometer": 6,
+    "believability": 50
+  },
+  {
+    "id": 66,
+    "excuse": "My dreams accidentally leaked into real life.",
+    "wackometer": 7,
+    "believability": 40
+  },
+  {
+    "id": 67,
+    "excuse": "I was teaching my toaster philosophy.",
+    "wackometer": 8,
+    "believability": 35
+  },
+  {
+    "id": 68,
+    "excuse": "My shadow was acting suspicious and I had to follow it.",
+    "wackometer": 9,
+    "believability": 30
+  },
+  {
+    "id": 69,
+    "excuse": "A cult of houseplants wouldn't let me leave the living room.",
+    "wackometer": 9,
+    "believability": 25
+  },
+  {
+    "id": 70,
+    "excuse": "I couldn’t find my motivation—it’s still missing.",
+    "wackometer": 4,
+    "believability": 75
+  },
+  {
+    "id": 71,
+    "excuse": "I got emotionally trapped in a weather app.",
+    "wackometer": 6,
+    "believability": 50
+  },
+  {
+    "id": 72,
+    "excuse": "My calendar spontaneously combusted from stress.",
+    "wackometer": 6,
+    "believability": 55
+  },
+  {
+    "id": 73,
+    "excuse": "The moon was in retrograde and so was my soul.",
+    "wackometer": 5,
+    "believability": 60
+  },
+  {
+    "id": 74,
+    "excuse": "I got stuck between two TikToks arguing about the economy.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 75,
+    "excuse": "My house keys went on a spiritual journey without me.",
+    "wackometer": 8,
+    "believability": 35
+  },
+  {
+    "id": 76,
+    "excuse": "My dreams got hacked and I overslept the reboot.",
+    "wackometer": 7,
+    "believability": 40
+  },
+  {
+    "id": 77,
+    "excuse": "My conscience kept hitting the snooze button.",
+    "wackometer": 5,
+    "believability": 65
+  },
+  {
+    "id": 78,
+    "excuse": "My socks conspired to disappear again.",
+    "wackometer": 6,
+    "believability": 55
+  },
+  {
+    "id": 79,
+    "excuse": "I was trapped in a staring contest with the void.",
+    "wackometer": 8,
+    "believability": 30
+  },
+  {
+    "id": 80,
+    "excuse": "My blanket refused to release me until it got a raise.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 81,
+    "excuse": "The clouds drew a map and I had to follow it.",
+    "wackometer": 7,
+    "believability": 40
+  },
+  {
+    "id": 82,
+    "excuse": "I was in a heated debate with my GPS about ethics.",
+    "wackometer": 8,
+    "believability": 35
+  },
+  {
+    "id": 83,
+    "excuse": "My brain buffer overloaded and crashed mid-thought.",
+    "wackometer": 6,
+    "believability": 55
+  },
+  {
+    "id": 84,
+    "excuse": "My sweater was haunted by last winter's regrets.",
+    "wackometer": 7,
+    "believability": 40
+  },
+  {
+    "id": 85,
+    "excuse": "A motivational podcast became aggressively demotivating.",
+    "wackometer": 6,
+    "believability": 50
+  },
+  {
+    "id": 86,
+    "excuse": "My mirror started gaslighting me.",
+    "wackometer": 9,
+    "believability": 30
+  },
+  {
+    "id": 87,
+    "excuse": "I mistook my vacuum cleaner for a philosophical oracle.",
+    "wackometer": 8,
+    "believability": 35
+  },
+  {
+    "id": 88,
+    "excuse": "My cat booked a session with my therapist.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 89,
+    "excuse": "The neighborhood ducks formed a picket line.",
+    "wackometer": 7,
+    "believability": 40
+  },
+  {
+    "id": 90,
+    "excuse": "I lost a staring contest with my own reflection.",
+    "wackometer": 6,
+    "believability": 50
+  },
+  {
+    "id": 91,
+    "excuse": "My phone convinced me today was Sunday.",
+    "wackometer": 5,
+    "believability": 65
+  },
+  {
+    "id": 92,
+    "excuse": "I was doing interpretive dance therapy for my anxiety.",
+    "wackometer": 6,
+    "believability": 55
+  },
+  {
+    "id": 93,
+    "excuse": "My cactus threatened me into staying home.",
+    "wackometer": 8,
+    "believability": 35
+  },
+  {
+    "id": 94,
+    "excuse": "I was abducted by my own laziness.",
+    "wackometer": 6,
+    "believability": 60
+  },
+  {
+    "id": 95,
+    "excuse": "My tea leaves said 'Nope' and I obeyed.",
+    "wackometer": 5,
+    "believability": 60
+  },
+  {
+    "id": 96,
+    "excuse": "I got reverse-hacked by my smart fridge.",
+    "wackometer": 8,
+    "believability": 35
+  },
+  {
+    "id": 97,
+    "excuse": "I got stuck building Ikea furniture for my soul.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 98,
+    "excuse": "The universe blue-screened on me.",
+    "wackometer": 9,
+    "believability": 30
+  },
+  {
+    "id": 99,
+    "excuse": "I had to solve a riddle to unlock my closet.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 100,
+    "excuse": "My cat was writing a novel and needed my help.",
+    "wackometer": 6,
+    "believability": 55
+  },
+  {
+    "id": 101,
+    "excuse": "I forgot how to be perceived and needed to recalibrate.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 102,
+    "excuse": "My shoelaces unionized and refused to cooperate.",
+    "wackometer": 8,
+    "believability": 35
+  },
+  {
+    "id": 103,
+    "excuse": "A squirrel mistook me for a tree god.",
+    "wackometer": 8,
+    "believability": 40
+  },
+  {
+    "id": 104,
+    "excuse": "I lost an argument with the wind and had to walk it off.",
+    "wackometer": 7,
+    "believability": 50
+  },
+  {
+    "id": 105,
+    "excuse": "My playlist started judging my life choices.",
+    "wackometer": 6,
+    "believability": 55
+  },
+  {
+    "id": 106,
+    "excuse": "I got stuck in a metaphor and couldn’t get out.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 107,
+    "excuse": "I had to reboot my personality overnight.",
+    "wackometer": 6,
+    "believability": 60
+  },
+  {
+    "id": 108,
+    "excuse": "The trees whispered spoilers and I needed time to process.",
+    "wackometer": 9,
+    "believability": 30
+  },
+  {
+    "id": 109,
+    "excuse": "I mistook my anxiety for the weather forecast.",
+    "wackometer": 6,
+    "believability": 55
+  },
+  {
+    "id": 110,
+    "excuse": "My alarm clock betrayed me for another user.",
+    "wackometer": 6,
+    "believability": 50
+  },
+  {
+    "id": 111,
+    "excuse": "The streetlights kept blinking Morse code distress signals.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 112,
+    "excuse": "I got hexed by a playlist I made in 2016.",
+    "wackometer": 8,
+    "believability": 35
+  },
+  {
+    "id": 113,
+    "excuse": "My sink started overflowing with childhood memories.",
+    "wackometer": 7,
+    "believability": 40
+  },
+  {
+    "id": 114,
+    "excuse": "I was ghosted by gravity for an hour.",
+    "wackometer": 9,
+    "believability": 25
+  },
+  {
+    "id": 115,
+    "excuse": "My inner monologue went on strike.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 116,
+    "excuse": "I got stuck in a feedback loop with my microwave.",
+    "wackometer": 8,
+    "believability": 35
+  },
+  {
+    "id": 117,
+    "excuse": "My dog joined a cult and I had to intervene.",
+    "wackometer": 9,
+    "believability": 30
+  },
+  {
+    "id": 118,
+    "excuse": "A haunting melody wouldn’t let me leave my apartment.",
+    "wackometer": 8,
+    "believability": 35
+  },
+  {
+    "id": 119,
+    "excuse": "My inbox physically manifested and tried to fight me.",
+    "wackometer": 8,
+    "believability": 30
+  },
+  {
+    "id": 120,
+    "excuse": "I had to bury my last shred of motivation in the backyard.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 121,
+    "excuse": "I was locked out by an existential crisis wearing my face.",
+    "wackometer": 9,
+    "believability": 25
+  },
+  {
+    "id": 122,
+    "excuse": "My roommate turned into a metaphysical concept overnight.",
+    "wackometer": 10,
+    "believability": 20
+  },
+  {
+    "id": 123,
+    "excuse": "I slipped on a stray memory and twisted my vibe.",
+    "wackometer": 7,
+    "believability": 40
+  },
+  {
+    "id": 124,
+    "excuse": "The walls started humming and I had to harmonize.",
+    "wackometer": 8,
+    "believability": 35
+  },
+  {
+    "id": 125,
+    "excuse": "My house staged a sit-in for better lighting.",
+    "wackometer": 9,
+    "believability": 30
+  },
+  {
+    "id": 126,
+    "excuse": "A time traveler stopped me and said 'not today.'",
+    "wackometer": 9,
+    "believability": 30
+  },
+  {
+    "id": 127,
+    "excuse": "I had to update my trauma firmware.",
+    "wackometer": 6,
+    "believability": 50
+  },
+  {
+    "id": 128,
+    "excuse": "I argued with my aura and lost.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 129,
+    "excuse": "My oven gave me the silent treatment.",
+    "wackometer": 6,
+    "believability": 50
+  },
+  {
+    "id": 130,
+    "excuse": "I was trapped in a poem and couldn’t find the exit stanza.",
+    "wackometer": 8,
+    "believability": 35
+  },
+  {
+    "id": 131,
+    "excuse": "I walked into a parallel timeline where meetings don’t exist.",
+    "wackometer": 9,
+    "believability": 25
+  },
+  {
+    "id": 132,
+    "excuse": "My cereal was giving off radioactive vibes.",
+    "wackometer": 7,
+    "believability": 40
+  },
+  {
+    "id": 133,
+    "excuse": "The silence was too loud to ignore.",
+    "wackometer": 6,
+    "believability": 55
+  },
+  {
+    "id": 134,
+    "excuse": "I was temporarily possessed by the ghost of my ex's red flags.",
+    "wackometer": 8,
+    "believability": 40
+  },
+  {
+    "id": 135,
+    "excuse": "My WiFi developed stage fright.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 136,
+    "excuse": "My aura got flagged by airport security.",
+    "wackometer": 9,
+    "believability": 30
+  },
+  {
+    "id": 137,
+    "excuse": "The floor was lava and I respect boundaries.",
+    "wackometer": 7,
+    "believability": 50
+  },
+  {
+    "id": 138,
+    "excuse": "I got stuck in a CAPTCHA proving I’m not a bot.",
+    "wackometer": 6,
+    "believability": 55
+  },
+  {
+    "id": 139,
+    "excuse": "My plants staged an intervention about my life choices.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 140,
+    "excuse": "I had to defrag my emotional hard drive.",
+    "wackometer": 6,
+    "believability": 60
+  },
+  {
+    "id": 141,
+    "excuse": "I forgot I was corporeal this morning.",
+    "wackometer": 9,
+    "believability": 25
+  },
+  {
+    "id": 142,
+    "excuse": "I was translating my dreams into action, then fell asleep.",
+    "wackometer": 7,
+    "believability": 50
+  },
+  {
+    "id": 143,
+    "excuse": "My fridge demanded a conversation about boundaries.",
+    "wackometer": 8,
+    "believability": 40
+  },
+  {
+    "id": 144,
+    "excuse": "The wind whispered a warning and I listened.",
+    "wackometer": 8,
+    "believability": 35
+  },
+  {
+    "id": 145,
+    "excuse": "I tried to Marie Kondo my brain and got stuck in nostalgia.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 146,
+    "excuse": "I opened a fortune cookie and it said 'stay home.'",
+    "wackometer": 6,
+    "believability": 60
+  },
+  {
+    "id": 147,
+    "excuse": "I was briefly haunted by an unpaid bill.",
+    "wackometer": 5,
+    "believability": 65
+  },
+  {
+    "id": 148,
+    "excuse": "I got emotionally allergic to capitalism today.",
+    "wackometer": 7,
+    "believability": 50
+  },
+  {
+    "id": 149,
+    "excuse": "I started glitching between real and surreal.",
+    "wackometer": 9,
+    "believability": 30
+  },
+  {
+    "id": 150,
+    "excuse": "My future self begged me not to log in today.",
+    "wackometer": 8,
+    "believability": 40
+  },
+  {
+    "id": 151,
+    "excuse": "I fell into a loop of internal screaming and forgot the exit key.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 152,
+    "excuse": "My mirror staged an intervention about my posture.",
+    "wackometer": 6,
+    "believability": 50
+  },
+  {
+    "id": 153,
+    "excuse": "I was temporarily eclipsed by my own shadow.",
+    "wackometer": 8,
+    "believability": 35
+  },
+  {
+    "id": 154,
+    "excuse": "My to-do list started listing things I did in a past life.",
+    "wackometer": 8,
+    "believability": 40
+  },
+  {
+    "id": 155,
+    "excuse": "A thunderclap triggered my hibernation protocol.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 156,
+    "excuse": "The moon demanded I rest in its name.",
+    "wackometer": 8,
+    "believability": 35
+  },
+  {
+    "id": 157,
+    "excuse": "I accidentally summoned my intrusive thoughts into physical form.",
+    "wackometer": 9,
+    "believability": 30
+  },
+  {
+    "id": 158,
+    "excuse": "I entered a door in my dreams and it locked behind me.",
+    "wackometer": 9,
+    "believability": 35
+  },
+  {
+    "id": 159,
+    "excuse": "My personality had a software update that took all night.",
+    "wackometer": 6,
+    "believability": 55
+  },
+  {
+    "id": 160,
+    "excuse": "I was hypnotized by the washing machine’s spin cycle.",
+    "wackometer": 7,
+    "believability": 50
+  },
+  {
+    "id": 161,
+    "excuse": "I misplaced my willingness to function.",
+    "wackometer": 6,
+    "believability": 60
+  },
+  {
+    "id": 162,
+    "excuse": "The wind convinced me to take the long way through nothingness.",
+    "wackometer": 8,
+    "believability": 40
+  },
+  {
+    "id": 163,
+    "excuse": "I received a cryptic text from the void.",
+    "wackometer": 9,
+    "believability": 30
+  },
+  {
+    "id": 164,
+    "excuse": "My brain rebooted in safe mode.",
+    "wackometer": 6,
+    "believability": 60
+  },
+  {
+    "id": 165,
+    "excuse": "The ceiling fan asked me some really personal questions.",
+    "wackometer": 8,
+    "believability": 40
+  },
+  {
+    "id": 166,
+    "excuse": "I got a flat tire on my motivation.",
+    "wackometer": 6,
+    "believability": 55
+  },
+  {
+    "id": 167,
+    "excuse": "My inbox developed a fear of commitment.",
+    "wackometer": 7,
+    "believability": 50
+  },
+  {
+    "id": 168,
+    "excuse": "I got caught in a conversation with a ghost who needed closure.",
+    "wackometer": 9,
+    "believability": 35
+  },
+  {
+    "id": 169,
+    "excuse": "My soul got stuck buffering.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 170,
+    "excuse": "I was waiting for a cosmic green light that never came.",
+    "wackometer": 8,
+    "believability": 40
+  },
+  {
+    "id": 171,
+    "excuse": "I spilled deja vu all over my schedule.",
+    "wackometer": 6,
+    "believability": 55
+  },
+  {
+    "id": 172,
+    "excuse": "The sun called in sick and I took it personally.",
+    "wackometer": 7,
+    "believability": 50
+  },
+  {
+    "id": 173,
+    "excuse": "I had to neutralize an emotional tripwire in my hallway.",
+    "wackometer": 8,
+    "believability": 40
+  },
+  {
+    "id": 174,
+    "excuse": "My pillow started giving unsolicited life advice.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 175,
+    "excuse": "The floorboards were whispering secrets too loudly.",
+    "wackometer": 8,
+    "believability": 35
+  },
+  {
+    "id": 176,
+    "excuse": "I got lost in a notification forest.",
+    "wackometer": 7,
+    "believability": 50
+  },
+  {
+    "id": 177,
+    "excuse": "I was tailgated by dread all morning.",
+    "wackometer": 6,
+    "believability": 55
+  },
+  {
+    "id": 178,
+    "excuse": "My slippers led me out of the house without telling me why.",
+    "wackometer": 8,
+    "believability": 40
+  },
+  {
+    "id": 179,
+    "excuse": "I had to recover from a sarcastic haunting.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 180,
+    "excuse": "My tea leaves spelled out 'not today'.",
+    "wackometer": 6,
+    "believability": 55
+  },
+  {
+    "id": 181,
+    "excuse": "My calendar was hacked by chaos.",
+    "wackometer": 7,
+    "believability": 50
+  },
+  {
+    "id": 182,
+    "excuse": "The ghost in my keyboard deleted all sense of urgency.",
+    "wackometer": 8,
+    "believability": 40
+  },
+  {
+    "id": 183,
+    "excuse": "I fell into a daydream pothole and dislocated my plans.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 184,
+    "excuse": "I was shadowbanned by reality.",
+    "wackometer": 9,
+    "believability": 30
+  },
+  {
+    "id": 185,
+    "excuse": "My socks protested my direction in life.",
+    "wackometer": 7,
+    "believability": 50
+  },
+  {
+    "id": 186,
+    "excuse": "A pigeon landed on my aura and refused to leave.",
+    "wackometer": 9,
+    "believability": 35
+  },
+  {
+    "id": 187,
+    "excuse": "I was emotionally locked out of my own brain.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 188,
+    "excuse": "I mistook a recurring nightmare for an actual calendar invite.",
+    "wackometer": 8,
+    "believability": 40
+  },
+  {
+    "id": 189,
+    "excuse": "I got stuck between vibes.",
+    "wackometer": 6,
+    "believability": 55
+  },
+  {
+    "id": 190,
+    "excuse": "The spirits of my unread emails cursed my productivity.",
+    "wackometer": 8,
+    "believability": 40
+  },
+  {
+    "id": 191,
+    "excuse": "My existential dread set my morning routine on fire.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 192,
+    "excuse": "I was late because I misread the vibes.",
+    "wackometer": 6,
+    "believability": 60
+  },
+  {
+    "id": 193,
+    "excuse": "I encountered a poetic emergency.",
+    "wackometer": 7,
+    "believability": 50
+  },
+  {
+    "id": 194,
+    "excuse": "My soul missed the update and crashed at launch.",
+    "wackometer": 8,
+    "believability": 40
+  },
+  {
+    "id": 195,
+    "excuse": "I was abducted by nostalgia.",
+    "wackometer": 6,
+    "believability": 55
+  },
+  {
+    "id": 196,
+    "excuse": "My aura was incompatible with today’s energy.",
+    "wackometer": 7,
+    "believability": 45
+  },
+  {
+    "id": 197,
+    "excuse": "A cloud with my face followed me around all morning.",
+    "wackometer": 9,
+    "believability": 35
+  },
+  {
+    "id": 198,
+    "excuse": "I was interrogated by an owl in my dream.",
+    "wackometer": 8,
+    "believability": 40
+  },
+  {
+    "id": 199,
+    "excuse": "My ambitions called in sick.",
+    "wackometer": 6,
+    "believability": 60
+  },
+  {
+    "id": 200,
+    "excuse": "The static in my headphones told me a secret I needed time to digest.",
+    "wackometer": 8,
+    "believability": 40
+  }
+]

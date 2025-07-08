@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Lie-Fi™</title>
+    <link rel="stylesheet" href="style.css">
+
+    <!-- icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.2.0/remixicon.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/bold/style.css" />
+</head>
+
+<body>
+    <div id="window">
+
+        <!--=============== HEADER ===============-->
+        <header class="header" id="header">
+            <div class="header__container">
+                <a href="index.html" class="header__logo">
+                    <i class="ri-base-station-fill"></i>
+                    <span>Lie-Fi ™</span>
+                </a>
+
+                <button class="header__toggle" id="header-toggle">
+                    <i class="ri-menu-line"></i>
+                </button>
+            </div>
+        </header>
+
+        <!--=============== SIDEBAR ===============-->
+        <nav class="sidebar" id="sidebar">
+            <div class="sidebar__container">
+                <div class="sidebar__user">
+                    <div class="sidebar__img">
+                        <img src="./assets/user_icon.png" alt="user profile">
+                    </div>
+
+                    <div class="sidebar__info">
+                        <h3>John Doe</h3>
+                        <span>john.doe@email.com</span>
+                    </div>
+                </div>
+
+                <div class="sidebar__content">
+                    <div>
+                        <h3 class="sidebar__title">MANAGE</h3>
+
+                        <div class="sidebar__list">
+                            <a href="index.html" class="sidebar__link active-link">
+                                <i class="ri-pie-chart-2-fill"></i>
+                                <span>Dashboard</span>
+                            </a>
+
+                            <a href="./saved_page/saved.html" class="sidebar__link">
+                                <i class="ri-bookmark-fill"></i>
+                                <span>Saved</span>
+                            </a>
+
+                            <a href="./collection_page/collection.html" class="sidebar__link">
+                                <i class="ri-archive-fill"></i>
+                                <span>Collections</span>
+                            </a>
+                        </div>
+                    </div>
+
+                    <div>
+                        <h3 class="sidebar__title">SETTINGS</h3>
+
+                        <div class="sidebar__list">
+                            <a href="./settings_page/settings.html" class="sidebar__link">
+                                <i class="ri-settings-3-fill"></i>
+                                <span>Settings</span>
+                            </a>
+
+                            <a href="./upgrade_page/upgrade.html" class="sidebar__link sidebar_upgrade_link">
+                                <i class="ri-vip-crown-2-fill"></i>
+                                <span>UPGRADE</span>
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="sidebar__actions">
+
+                    <button class="sidebar__link">
+                        <i class="ri-logout-box-r-fill"></i>
+                        <span>Log Out</span>
+                    </button>
+
+                </div>
+            </div>
+        </nav>
+
+        <!--=============== MAIN ===============-->
+        <main class="main container" id="main">
+            <h1>Dashboard</h1>
+
+            <section class="excuse-generator card">
+
+                <div class="excuse-believability">
+
+                    <div class="excuse-wrapper">
+
+                        <div class="top-controls">
+                            <div class="wackometer">
+                                <label for="wack-slider">Wack-o-meter:</label>
+                                <input type="range" min="1" max="10" value="7" id="wack-slider">
+                                <span id="wack-value">7</span>
+                            </div>
+                            <button class="btn generate-btn" id="generate-btn">
+                                <i class="ri-lightbulb-flash-fill"></i> Generate Excuse
+                            </button>
+                        </div>
+
+                        <div class="excuse-box">
+                            <p id="excuse-text">"My fish tank short-circuited the router again."</p>
+                        </div>
+
+                        <div class="excuse-buttons">
+                            <button class="btn" id="copy-btn">
+                                <i class="ri-clipboard-fill"></i> Copy
+                            </button>
+                            <button class="btn" id="save-btn">
+                                <i class="ri-bookmark-fill"></i> Save
+                            </button>
+                        </div>
+                    </div>
+
+                    <div class="believability-meter">
+                        <div class=" believability-icon" id="believability-icon">
+                            <i class="ph-bold ph-wifi-high"></i>
+                        </div>
+                        <p class="wifi-label">Believability Meter</p>
+                    </div>
+
+                </div>
+            </section>
+
+            <!-- Excuse Log -->
+            <section class="excuse-log">
+                <div class="excuse-log-title">
+                    <h3>Excuse Log</h3>
+                </div>
+                <div id="log-container">
+                    <!-- <p><span class="timestamp">[12:31:52]</span> “The goat chewed through my router.”</p>
+                    <p><span class="timestamp">[12:34:10]</span> “Aliens intercepted my Zoom call.”</p> -->
+                </div>
+            </section>
+
+
+            <!-- FOOTER -- TERMS SECTION -->
+            <section class="collapsible-footer card">
+                <button id="footer-toggle" class="btn footer-toggle">
+                    <i class="ri-arrow-down-s-line"></i>
+                    Show Terms of Excusiveness
+                </button>
+
+                <div class="terms-footer" id="terms-footer">
+                    <h4>Terms of Excusiveness 📝</h4>
+                    <p>By using this app, you agree to:</p>
+                    <ul>
+                        <li>> Never use more than 5 excuses per day (unless backed by a certified raccoon lawyer).</li>
+                        <li>> Not reuse excuses from the Hall of Shame unless wearing a disguise.</li>
+                        <li>> Understand that believability is not guaranteed. Use at your own risk.</li>
+                        <li>> Allow us to transmit excuses via telepathic beams (beta feature).</li>
+                        <li>> Not blame this app in the event of termination, ghosting, or time-loop entrapment.</li>
+                    </ul>
+                    <p>© Lie-Fi | 2025. All excuses are 100% fabricated and proudly unverified.</p>
+                </div>
+            </section>
+
+
+        </main>
+
+
+
+
+    </div>
+    <script type="module" src="./app.js"></script>
+</body>
+
+</html>
