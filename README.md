@@ -22,3 +22,6 @@
 - images: from google
 - style inspiration: pinterest and youtube
 - final designer + tester: elder sister
+
+## COMLPETE REPO UPLOADED ON DROPBOX
+> [Lie-Fi | Dropbox](https://www.dropbox.com/scl/fo/wqkgty7v6j5or4nw9dg5g/AJi8fwHdg-hXxs6gpzBquVo?rlkey=8qqqe6e7jm4hlohh8f122pkx1&st=m3zap2li&dl=0)
